@@ -71,6 +71,9 @@ namespace  Pilha
             f.Inserir(30);
             f.Inserir(42);
             f.Inserir(50);
+            f.Inserir(25);
+            f.Inserir(8);
+            f.Inserir(17);
             f.Remover();
             f.Mostrar();
             f.Inserir(50);
